@@ -1,3 +1,4 @@
 Таблица ООП : https://docs.google.com/spreadsheets/d/1XYG0_Gy7lJpLtnL-naOKLCKiAyIT5hiCvZFksof8w0w/edit#gid=1825204894
 
 Задания по САОД 2: https://github.com/ivtipm/Data-structures-and-algorithms/blob/main/current_plans/2023/2023_fall.md
+Задания по САОД 1: https://github.com/ivtipm/Data-structures-and-algorithms/blob/main/current_plans/2024/2024_part_1.md
